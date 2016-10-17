@@ -214,8 +214,8 @@ img {
 #mc_embed_signup #mce-EMAIL {
   height: 40px;
   font-size: 14pt;
-  width: auto;
-  min-width: 320px;
+  /*width: auto;*/
+  min-width: 320px;/
   margin-right: 6px;
 }
 
@@ -326,11 +326,11 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    /*padding-right:320px;*/
   }
 
   section {
-    border:1px solid #e5e5e5;
+    /*border:1px solid #e5e5e5;*/
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
